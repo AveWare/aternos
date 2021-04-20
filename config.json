@@ -1,0 +1,9 @@
+{
+	"ip":"SwiatAve.aternos.me",
+	"port": 64008,
+	"name": "24/7_BOT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register eloelo320",
+	"login-cmd":"/login eloelo320"
+}
